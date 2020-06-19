@@ -1,4 +1,4 @@
-# Blade Heroicons
+# Blade Css Icons
 
 <a href="https://github.com/khatabwedaa/blade-css-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/khatabwedaa/blade-css-icons/workflows/Tests/badge.svg" alt="Tests">
