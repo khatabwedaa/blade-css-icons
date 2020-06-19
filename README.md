@@ -3,9 +3,7 @@
 <a href="https://github.com/khatabwedaa/blade-css-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/khatabwedaa/blade-css-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://packagist.org/packages/khatabwedaa/blade-css-icons">
-    <img src="https://poser.pugx.org/khatabwedaa/blade-css-icons/v/stable.svg" alt="Latest Stable Version">
-</a>
+
 <a href="https://packagist.org/packages/khatabwedaa/blade-css-icons">
     <img src="https://poser.pugx.org/khatabwedaa/blade-css-icons/d/total.svg" alt="Total Downloads">
 </a>
