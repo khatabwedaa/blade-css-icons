@@ -6,6 +6,6 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 ## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/0.1.0...master)
 
 
-## 0.1.0 (2020-06-17)
+## 0.1.0 (2020-06-19)
 
 Initial release.
