@@ -9,10 +9,12 @@ final class BladeCssIconsServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        $this->app->make(Factory::class)->add('css-icons', [
-            'path' => __DIR__ . '/../resources/svg',
-            'prefix' => 'css',
-        ]);
+        $this->callAfterResolving(Factory::class, function (Factory $factory) {
+            $factory->add('css-icons', [
+                'path' => __DIR__ . '/../resources/svg',
+                'prefix' => 'css',
+            ]);
+        });
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
