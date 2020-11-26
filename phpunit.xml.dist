@@ -4,7 +4,7 @@
          bootstrap="vendor/autoload.php"
          colors="true">
     <testsuites>
-        <testsuite name="Package Test Suite">
+        <testsuite name="Blade CSS Icons Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

@@ -11,7 +11,7 @@ final class BladeCssIconsServiceProvider extends ServiceProvider
     {
         $this->callAfterResolving(Factory::class, function (Factory $factory) {
             $factory->add('css-icons', [
-                'path' => __DIR__ . '/../resources/svg',
+                'path' => __DIR__.'/../resources/svg',
                 'prefix' => 'css',
             ]);
         });
@@ -21,7 +21,7 @@ final class BladeCssIconsServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__ . '/../resources/svg' => public_path('vendor/blade-css-icons'),
+                __DIR__.'/../resources/svg' => public_path('vendor/blade-css-icons'),
             ], 'blade-css-icons');
         }
     }
