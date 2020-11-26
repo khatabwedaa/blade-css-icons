@@ -4,7 +4,7 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/0.2.0...master)
 
-## [0.2.0 (2020-11-26)](https://github.com/khatabwedaa/blade-css-icons/compare/0.1.2...0.2.0)
+## [0.2.0 (2020-11-26)](https://github.com/khatabwedaa/blade-css-icons/compare/0.1.3...0.2.0)
 
 ### Added
 - PHP 8 Support ([0652e24](https://github.com/khatabwedaa/blade-css-icons/commit/0652e24c9d8850a0228577695fd93a7af2e48a9e))
