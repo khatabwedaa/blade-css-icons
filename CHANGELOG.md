@@ -2,7 +2,21 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/0.2.0...master)
+## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.1.0...master)
+
+## [1.1.0 (2022-02-16)](https://github.com/khatabwedaa/blade-css-icons/compare/1.0.0...1.1.0)
+
+### Added
+- Laravel 8 Support ([a2e5553](https://github.com/khatabwedaa/blade-css-icons/commit/a2e55534dff77220add4829f0b5a2c814ee7e9a7))
+
+## [1.0.0 (2021-03-21)](https://github.com/khatabwedaa/blade-css-icons/compare/0.2.0...1.0.0)
+
+### Changed
+- Bump Blade Icons to 1.0.0 ([e2954ca](https://github.com/khatabwedaa/blade-css-icons/commit/e2954caa4dca5803dffcf09e72e20a9ed5dcd43c))
+
+### Removed
+- Drop PHP 7.3 support ([e2954ca](https://github.com/khatabwedaa/blade-css-icons/commit/e2954caa4dca5803dffcf09e72e20a9ed5dcd43c))
+- Drop Laravel 7 support ([e2954ca](https://github.com/khatabwedaa/blade-css-icons/commit/e2954caa4dca5803dffcf09e72e20a9ed5dcd43c))
 
 ## [0.2.0 (2020-11-26)](https://github.com/khatabwedaa/blade-css-icons/compare/0.1.3...0.2.0)
 
