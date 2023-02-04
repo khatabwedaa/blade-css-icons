@@ -2,7 +2,12 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.1.0...master)
+## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.2.0...master)
+
+## [1.2.0 (2022-02-16)](https://github.com/khatabwedaa/blade-css-icons/compare/1.1.0...1.2.0)
+
+### Removed
+- Drop PHP 7.4 and Laravel 8 support ([038864f](https://github.com/khatabwedaa/blade-css-icons/pull/8/commits/038864fd86902dc0e3861594390e4d1068d5737d))
 
 ## [1.1.0 (2022-02-16)](https://github.com/khatabwedaa/blade-css-icons/compare/1.0.0...1.1.0)
 
