@@ -7,7 +7,7 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 ## [1.1.0 (2022-02-16)](https://github.com/khatabwedaa/blade-css-icons/compare/1.0.0...1.1.0)
 
 ### Added
-- Laravel 8 Support ([a2e5553](https://github.com/khatabwedaa/blade-css-icons/commit/a2e55534dff77220add4829f0b5a2c814ee7e9a7))
+- Laravel 9 Support ([a2e5553](https://github.com/khatabwedaa/blade-css-icons/commit/a2e55534dff77220add4829f0b5a2c814ee7e9a7))
 
 ## [1.0.0 (2021-03-21)](https://github.com/khatabwedaa/blade-css-icons/compare/0.2.0...1.0.0)
 
