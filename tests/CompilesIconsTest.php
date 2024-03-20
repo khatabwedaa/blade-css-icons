@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests;
 
 use Orchestra\Testbench\TestCase;
@@ -8,14 +10,6 @@ use Khatabwedaa\BladeCssIcons\BladeCssIconsServiceProvider;
 
 class CompilesIconsTest extends TestCase
 {
-    protected function getPackageProviders($app)
-    {
-        return [
-            BladeIconsServiceProvider::class,
-            BladeCssIconsServiceProvider::class,
-        ];
-    }
-
     /** @test */
     public function it_compiles_a_single_anonymous_component()
     {
@@ -59,5 +53,13 @@ SVG;
 SVG;
 
         $this->assertSame($expected, $result);
+    }
+
+    protected function getPackageProviders($app)
+    {
+        return [
+            BladeIconsServiceProvider::class,
+            BladeCssIconsServiceProvider::class,
+        ];
     }
 }
