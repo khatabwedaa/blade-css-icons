@@ -2,11 +2,18 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.4.0...main)
+## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.5.0...main)
+
+## [1.5.0](https://github.com/khatabwedaa/blade-css-icons/compare/1.4.0...1.5.0) - 2025-02-19
+
+### Added
+
+- Laravel 12 Support ([471e648](https://github.com/khatabwedaa/blade-css-icons/commit/471e648f8ebb36e9896e3f440785d22ecf3a8032))
 
 ## [1.4.0 (2024-03-20)](https://github.com/khatabwedaa/blade-css-icons/compare/1.3.0...1.4.0)
 
 ### Added
+
 - Laravel 11 Support ([5e21c5e](https://github.com/khatabwedaa/blade-css-icons/commit/5e21c5eca441493b6e6b3c383f1a4dd633aab477))
 
 ## [1.3.0 (2023-02-4)](https://github.com/khatabwedaa/blade-css-icons/compare/1.1.0...1.2.0)
