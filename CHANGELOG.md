@@ -2,7 +2,17 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.5.0...main)
+## [Unreleased](https://github.com/khatabwedaa/blade-css-icons/compare/1.6.0...main)
+
+## [1.6.0](https://github.com/khatabwedaa/blade-css-icons/compare/1.5.0...1.6.0) - 2026-04-16
+
+### Added
+
+- Laravel 13 Support
+
+### Fixed
+
+- Fix PHPUnit 12 test discovery by replacing `@test` annotations with `test_` prefix
 
 ## [1.5.0](https://github.com/khatabwedaa/blade-css-icons/compare/1.4.0...1.5.0) - 2025-02-19
 
